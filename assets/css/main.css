@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.inner {
+    max-width: 75em;
+    margin: 0 auto;
+}
