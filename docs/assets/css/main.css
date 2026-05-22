@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 .inner {
+    color: #ef0d0d;
     max-width: 75em;
     margin: 0 auto;
 }
